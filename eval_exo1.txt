@@ -1,5 +1,7 @@
 CREATE DATABASE eval; 
 
+USE eval; 
+
 CREATE TABLE client(
 	cli_num INT PRIMARY KEY,
 	cli_nom VARCHAR(50),
